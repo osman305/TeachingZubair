@@ -20,6 +20,7 @@ class Child1 extends Parent {
     // Method
     void Print() { System.out.println("child class"); }
 
+    
 
 }
 
